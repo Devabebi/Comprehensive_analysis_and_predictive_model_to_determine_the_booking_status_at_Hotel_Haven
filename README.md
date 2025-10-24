@@ -2,6 +2,8 @@
 This models revealed key drivers such as lead time, room preferences, etc that significantly impacted bookings. Based on these insights, I proposed data-driven strategies to reduce cancellations, improve customer retention, and optimize resource planning. This project demonstrated the power of predictive analytics to influence strategic decisions.
 ![hotel_haven](https://github.com/user-attachments/assets/612ce092-3ab2-494f-9694-e5ccefb50e92)
 
+🔒 Disclaimer
+All datasets and reports used in this portfolio are entirely fictitious and contain no proprietary, confidential, or sensitive information from any company, institution, or individual. The information presented is dummy data created solely to demonstrate my capability in using Tableau for advanced analytics within the real estate industry.
 
 ## Table of Content
 - [Business Overview](#business-overview)
