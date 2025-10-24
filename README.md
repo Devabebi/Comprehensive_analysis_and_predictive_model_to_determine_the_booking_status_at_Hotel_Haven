@@ -1,0 +1,2 @@
+# Comprehensive_analysis_and_predictive_model_to_determine_the_booking_status_at_Hotel_Haven
+This models revealed key drivers such as lead time, room preferences, etc that significantly impacted bookings. Based on these insights, I proposed data-driven strategies to reduce cancellations, improve customer retention, and optimize resource planning. This project demonstrated the power of predictive analytics to influence strategic decisions.
